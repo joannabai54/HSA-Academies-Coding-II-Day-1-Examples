@@ -5,3 +5,4 @@ const student = {
 }
 
 // this is filled out now!
+console.log(student)
